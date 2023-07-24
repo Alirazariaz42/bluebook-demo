@@ -1,0 +1,55 @@
+.checkBok{
+    position: absolute;
+    top: 43%;
+    left: 35%;
+}
+
+@media screen and (max-width: 1200px) {
+    .checkBok {
+        position: absolute;
+        top: 37%;
+        left: 35%;
+    }
+  }
+  @media screen and (max-width: 1000px) {
+    .checkBok {
+        position: absolute;
+        top: 65%;
+        left: 40%;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .checkBok {
+        position: absolute;
+        top: 55%;
+        left: 40%;
+    }
+  }
+  @media screen and (max-width: 460px) {
+    .checkBok {
+        position: absolute;
+        top: 50%;
+        left: 40%;
+    }
+  }
+  @media screen and (max-width: 430px) {
+    .checkBok {
+        position: absolute;
+        top: 46%;
+        left: 40%;
+    }
+  }
+  @media screen and (max-width: 390px) {
+    .checkBok {
+        position: absolute;
+        top: 42%;
+        left: 38%;
+    }
+  }
+  @media screen and (max-width: 320px) {
+    .checkBok {
+        position: absolute;
+        top: 35%;
+        left: 32%;
+    }
+  }
